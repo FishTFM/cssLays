@@ -15,4 +15,4 @@
 .italic { font-style: italic !important; }
 .underline { text-decoration: underline !important; }
 .strike { text-decoration: line-through !important; }
-.shadow { text-shadow: rgba(0, 0, 0, 0.43) 0 0 3px !important; }
+.shadow { text-shadow: rgba(0, 0, 0, 0.45) 0 0 3px !important; }
